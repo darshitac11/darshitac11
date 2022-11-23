@@ -19,7 +19,7 @@ Few things about me:
 
 👩🏻‍💻 Maintainer of the open-source project, [Atri framework](https://github.com/Atri-Labs/atrilabs-engine)  
 
-🧳 Co-Founder & CEO of [Atri Labs](https://github.com/Atri-Labs), the company behind this project
+🧳 Co-Founder & CEO of [Atri Labs](https://github.com/Atri-Labs)
 
 🎤 Frequent speaker at JavaScript and Python conferences worldwide. [Some of my talks](https://github.com/Atri-Labs/conferences)
 
