@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Logo](assets/personal_logo.svg)
+![Logo](assets/personal_logo.png)
 
 Few things about me:
 
