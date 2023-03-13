@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Logo](assets/canva_designed.png)
 
-Few things about me:
+About me:
 
 👩🏻‍💻 Maintainer of the open-source project, [Atri framework](https://github.com/Atri-Labs/atrilabs-engine)  
 
